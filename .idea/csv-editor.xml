@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/Dataset/Products_180Days_BestSeller/Customizable/Bags &amp; Purses_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Digital/Accessories_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Digital/Bath &amp; Beauty_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Digital/Weddings_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="#1e#" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Handmade/Accessories_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Handmade/Craft Supplies &amp; Tools_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Handmade/Jewelry_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Others/Electronics &amp; Accessories_Others.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Others/Paper &amp; Party Supplies_Others.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="#1e#" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Select All/Electronics &amp; Accessories_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Vintage/Accessories_Vintage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Vintage/Jewelry_Vintage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Vintage/Paper &amp; Party Supplies_Vintage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_180Days_BestSeller/Vintage/Toys &amp; Games_Vintage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_1Year_BestSeller/Handmade/Accessories_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Customizable/Accessories_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Customizable/Art &amp; Collectibles_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Customizable/Bath &amp; Beauty_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Customizable/Craft Supplies &amp; Tools_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Customizable/Paper &amp; Party Supplies_Customizable.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Digital/Art &amp; Collectibles_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Digital/Bath &amp; Beauty_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Digital/Craft Supplies &amp; Tools_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Digital/Home &amp; Living_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Digital/Paper &amp; Party Supplies_Digital.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Accessories_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Art &amp; Collectibles_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Bath &amp; Beauty_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Craft Supplies &amp; Tools_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Home &amp; Living_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Handmade/Paper &amp; Party Supplies_Handmade.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Others/Clothing_Others.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Art &amp; Collectibles_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Bath &amp; Beauty_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Clothing_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Craft Supplies &amp; Tools_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Home &amp; Living_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Dataset/Products_30Days_BestSeller/Select All/Paper &amp; Party Supplies_Select All.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
